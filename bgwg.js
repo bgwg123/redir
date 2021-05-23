@@ -1,7 +1,8 @@
 var sw_targ=true; var ff_targ=''; var qs= querySt('t'); switch(qs) {
 case 'b22'	:ff_targ_text='Bruce Green and West Green Healthy Streets menu';  ff_targ='https://docs.google.com/document/d/1-y88Vl0XwcvIizlwtRNDcoKeKqxqHQGAnZK-NH-6FaI'; break; 
 // bit.ly/bgwgmenu BGWGMENU https://bgwg13.github.io/redir/index.htm?t=b22					
-case 'b23'	: 
+case 'b23'	:ff_targ_text='Bruce Green and West Green Healthy Streets mailing list';  ff_targ='http://eepurl.com/hzgTZz'; break; 
+// bit.ly/bgwgmail BGWGMAIL https://bgwg13.github.io/redir/index.htm?t=b23 
 case 'b24'	:					
 case 'b25'	:			
 case 'b26'	:				
