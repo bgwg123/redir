@@ -5,7 +5,7 @@ case 'b22'	:ff_targ_text='Bruce Green and West Green Healthy Streets menu';
 case 'b23'	:ff_targ_text='Bruce Green and West Green Healthy Streets mailing list';  ff_targ='https://bruce-green-west-green-healthy-streets.mailchimpsites.com/sign-up'; break; 
 // bit.ly/bgwgsup BGWGSUP https://bgwg123.github.io/redir/index.htm?t=b23 
 case 'b24'	:ff_targ_text='Bruce Green and West Green Healthy Streets Facebook Group';  ff_targ='https://www.facebook.com/groups/bgwghealthystreets'; break; 
-// bit.ly/bgwgfb BGWGFB https://bgwg123.github.io/redir/index.htm?t=b24				
+// bit.ly/bgwg247 BGWG247 https://bgwg123.github.io/redir/index.htm?t=b24				
 case 'b25'	:			
 case 'b26'	:				
 case 'b27'	:				
